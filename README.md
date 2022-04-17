@@ -1,12 +1,16 @@
 # simple-black
 A simple Sublime Text plugin for Python Black formatter 
 
-## isntall
+## install
 
 1. Install black with `pip install black`
 2. Open the command palette with `cmd + shift + p`
 3. run `Package Control: Install Package`
 4. search `simple-black` and press enter to install
+
+## operation
+
+`simple-black` will automatically black files on save.
 
 
 ## configuration
