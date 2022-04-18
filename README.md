@@ -15,4 +15,4 @@ A simple Sublime Text plugin for Python Black formatter
 
 ## configuration
 
-The package users your install of black so will follow its standard confiration found [here](hhttps://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#what-on-earth-is-a-pyproject-toml-file)
+The package users your install of black so will follow its standard confiration found [here](https://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#what-on-earth-is-a-pyproject-toml-file)
